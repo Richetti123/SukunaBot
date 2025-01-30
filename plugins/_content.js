@@ -44,8 +44,8 @@ global.welgata = [tk, ig, md, yt, paypal, fb, ths, asistencia][Math.floor(Math.r
 global.redesMenu = [all, canal1, canal2, canal3, canal4, md, ig, paypal, yt, asistencia, fb, tk][Math.floor(Math.random() * 12)]
 global.accountsgb = [all, canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia][Math.floor(Math.random() * 13)]
 
-global.canalIdGB = ["120363258427334062@newsletter"]
-global.canalNombreGB = ["CANAL MICHIBOT😼🤖"]
+global.canalIdGB = ["120363374803118639@newsletter"]
+global.canalNombreGB = ["SUKUNABOT"]
 global.channelRD = await getRandomChannel()
 
 // Imágenes 
